@@ -1,2 +1,7 @@
 ui/
 presentation.html
+Gemfile.lock
+.bundle/
+vendor/
+control_repo/modules/*
+!control_repo/modules/.gitkeep
